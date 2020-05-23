@@ -1,4 +1,4 @@
-var time = 3720;
+var time = 0;
 var running = false;
 var interval;
 
